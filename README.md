@@ -20,3 +20,6 @@ This creates the file `map_output.txt` by processing shakespeare.txt with mapper
 You can get the shakespeare.txt file with `wget https://norvig.com/ngrams/shakespeare.txt`
 
 Testing the files in this way is much easier than trying to debug the errors from Hadoop streaming.  The errors from using Python above will be Python errors and easier to read than the complex Hadoop Java errors.
+..
+
+This line is for testing purporses
